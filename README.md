@@ -1,0 +1,1 @@
+# yolov11-fire-detection
